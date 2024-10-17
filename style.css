@@ -9,13 +9,8 @@ p {
   color:rgb(255, 255, 255)
 }
 
-.header {
+header {
   text-align: center;
-  background: #3cc2a7;
-  color: white;
-}
-
-footer {
   background: #3cc2a7;
   color: white;
 }
